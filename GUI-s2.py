@@ -1,4 +1,4 @@
-print("PODAAA")
+
 from login_insta_to_import import *
 #print("point1")
 import tkinter
